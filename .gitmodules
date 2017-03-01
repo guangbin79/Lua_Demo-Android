@@ -1,0 +1,3 @@
+[submodule "Lua_5.1.5-Android"]
+	path = Lua_5.1.5-Android
+	url = https://github.com/guangbin79/Lua_5.1.5-Android.git
